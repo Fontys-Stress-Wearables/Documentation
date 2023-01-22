@@ -1,0 +1,66 @@
+[
+    {
+        "heartRate": {
+            "average": 99.317008972167969,
+            "rrData": [
+                16968
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 90.375,
+            "rrData": [
+                2000
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 89.313377380371094,
+            "rrData": [
+                710
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 84.787445068359375,
+            "rrData": [
+                1085
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 78.293495178222656,
+            "rrData": [
+                1914
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 97.432876586914062,
+            "rrData": [
+                257
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 85.883468627929688,
+            "rrData": [
+                7437
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 76.891136169433594,
+            "rrData": [
+                4570
+            ]
+        }
+    }
+]

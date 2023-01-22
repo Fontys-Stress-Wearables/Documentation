@@ -1,0 +1,362 @@
+[
+    {
+        "heartRate": {
+            "average": 39.896701812744141,
+            "rrData": [
+                14376
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 35.168312072753906,
+            "rrData": [
+                44560
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 58.198532104492188,
+            "rrData": [
+                272
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 58.017440795898438,
+            "rrData": [
+                1032
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 52.436149597167969,
+            "rrData": [
+                4448
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 53.796459197998047,
+            "rrData": [
+                904
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 61.673076629638672,
+            "rrData": [
+                520
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 64.552200317382812,
+            "rrData": [
+                728
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 68.894233703613281,
+            "rrData": [
+                624
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 72.242088317871094,
+            "rrData": [
+                632
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 68.122947692871094,
+            "rrData": [
+                1464
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 73.286766052246094,
+            "rrData": [
+                544
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 76.210525512695312,
+            "rrData": [
+                608
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 94.909088134765625,
+            "rrData": [
+                264
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 85.605155944824219,
+            "rrData": [
+                3024
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 90.875,
+            "rrData": [
+                480
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 89.390625,
+            "rrData": [
+                768
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 86.475921630859375,
+            "rrData": [
+                872
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 102.82353210449219,
+            "rrData": [
+                272
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 96.502548217773438,
+            "rrData": [
+                1176
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 90.422340393066406,
+            "rrData": [
+                1352
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 106.32353210449219,
+            "rrData": [
+                272
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 107.63095092773438,
+            "rrData": [
+                504
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 99.11822509765625,
+            "rrData": [
+                1624
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 96.927200317382812,
+            "rrData": [
+                728
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 91.209457397460938,
+            "rrData": [
+                1184
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 81.810317993164062,
+            "rrData": [
+                3432
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 72.958122253417969,
+            "rrData": [
+                6208
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 64.559806823730469,
+            "rrData": [
+                10952
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 62.389705657958984,
+            "rrData": [
+                1360
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 60.671234130859375,
+            "rrData": [
+                1168
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 65.09375,
+            "rrData": [
+                640
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 79.740852355957031,
+            "rrData": [
+                328
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 80.775863647460938,
+            "rrData": [
+                696
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 71.51800537109375,
+            "rrData": [
+                11664
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 66.266548156738281,
+            "rrData": [
+                2296
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 83.087837219238281,
+            "rrData": [
+                296
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 74.005706787109375,
+            "rrData": [
+                5432
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 74.414947509765625,
+            "rrData": [
+                776
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 67.2906494140625,
+            "rrData": [
+                2952
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 61.221954345703125,
+            "rrData": [
+                2888
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 65.875,
+            "rrData": [
+                600
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 60.844058990478516,
+            "rrData": [
+                2424
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 74.681816101074219,
+            "rrData": [
+                352
+            ]
+        }
+    },
+    {
+        "heartRate": {
+            "average": 72.836540222167969,
+            "rrData": [
+                1040
+            ]
+        }
+    }
+]
